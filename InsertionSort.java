@@ -1,5 +1,5 @@
 //insertion sort
-//
+//time complexity: O(2n) time even if the array is sorted.
 
 import java.util.Scanner;
 
